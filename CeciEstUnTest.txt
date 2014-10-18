@@ -1,6 +1,1 @@
-test pourquoi rien ne s'enregistre dans ma branche manger ? > CeciEstUnTest.txt
-
-echo test pourquoi rien ne senregistre dans ma branche "manger" ?" > CeciEstUnTest.txt
-
-
-echo test "pourquoi rien ne senregistre dans ma branche manger ?
+Nouvelle petite modif, merci Alexis !
